@@ -29,5 +29,5 @@ MVP
 
 Future features are currently limited, but this framework could be the bases for a CLI video game like they had back in the 80s
 
-
-https://app.screencastify.com/v2/manage/videos/91UkhnJNzkwMV1NHHHxd
+## Link to Walkthough
+https://youtu.be/hp9sa6qSRM0
