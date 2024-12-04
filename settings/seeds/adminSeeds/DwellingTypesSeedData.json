@@ -1,0 +1,7 @@
+[
+  {"dwelling_type_name": "Condo", "base_sq_ft": 600,"ui_description_set": 2},
+  {"dwelling_type_name": "Co-op", "base_sq_ft": 600, "ui_description_set": 3}, 
+  {"dwelling_type_name": "Townhouse", "base_sq_ft": 700, "ui_description_set": 4}, 
+  {"dwelling_type_name": "Single Family", "base_sq_ft": 800, "ui_description_set": 5}, 
+  {"dwelling_type_name": "Multi Family", "base_sq_ft": 1500, "ui_description_set": 6}
+]
