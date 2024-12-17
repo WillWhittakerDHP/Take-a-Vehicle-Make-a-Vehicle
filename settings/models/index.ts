@@ -1,4 +1,4 @@
-import sequelize from '../../../Differential_Scheduler/server/src/config/connection.js';
+import sequelize from '../../../../Differential_Scheduler/server/src/config/connection.js';
 //AdminChoices
 import { AppointmentPartFactory } from './adminModels/AppointmentParts.js';
 import { AppointmentPartTypeFactory } from './adminModels/AppointmentPartTypes.js';
